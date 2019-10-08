@@ -4,6 +4,7 @@
         "editor.foreground": "#222",
         "editor.background": "#fff",
         "titleBar.activeBackground": "#222",
+        "titleBar.activeForeground": "#fefefe",
         "sideBar.background": "#fff",
         "sideBarSectionHeader.background": "#fff",
         "sideBarTitle.foreground": "#222",
@@ -11,11 +12,14 @@
         "activityBar.foreground": "#222",
         "activityBarBadge.background": "#717171",
         "statusBar.background": "#1c1c1c",
-        "statusBar.foreground": "#717171",
+        "statusBar.foreground": "#fefefe",
         "statusBar.noFolderBackground": "#fff",
-        "editorGroupHeader.tabsBackground": "#222",
-        "tab.activeBorder": "#DA3D0F",
-        "tab.inactiveBackground": "#222"
+        "editorGroupHeader.tabsBackground": "#EEE9E2",
+        "tab.activeBorder": "#C52919",
+        "tab.activeBackground": "#EEE9E2",
+        "tab.activeForeground": "#222",
+        "tab.inactiveBackground": "#EEE9E2",
+        "tab.inactiveForeground": "#222"
     },
     "tokenColors": [
         {
@@ -69,7 +73,7 @@
                 "entity.name.function.ruby"
             ],
             "settings": {
-                "foreground": "#E9CECA"
+                "foreground": "#717171"
             }
         },
         {
@@ -87,7 +91,7 @@
                 "string.other.link.title.markdown"
             ],
             "settings": {
-                "foreground": "#EEE9E2"
+                "foreground": "#222"
             }
         },
         {
