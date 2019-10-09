@@ -12,14 +12,24 @@
         "activityBar.foreground": "#222",
         "activityBarBadge.background": "#717171",
         "statusBar.background": "#1c1c1c",
-        "statusBar.foreground": "#fefefe",
+        "statusBar.foreground": "#fff",
         "statusBar.noFolderBackground": "#fff",
         "editorGroupHeader.tabsBackground": "#EEE9E2",
         "tab.activeBorder": "#C52919",
+        "tab.border": "#EEE9E2",
         "tab.activeBackground": "#EEE9E2",
         "tab.activeForeground": "#222",
         "tab.inactiveBackground": "#EEE9E2",
-        "tab.inactiveForeground": "#222"
+        "tab.inactiveForeground": "#222",
+        "terminal.background": "#F7F5F2",
+        "terminal.foreground": "#222",
+        "menu.selectionBackground": "#222",
+        "menu.selectionForeground": "#fff",
+        "menubar.selectionForeground": "#e4e4e4",
+        "panel.background": "#EEE9E2",
+        "panelTitle.activeBorder": "#C52919",
+        "panelTitle.activeForeground": "#222",
+        "panelTitle.inactiveForeground": "#222"
     },
     "tokenColors": [
         {
